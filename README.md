@@ -11,8 +11,4 @@ Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer*
 * 📱 Kotlin
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/DolenDeori)  
