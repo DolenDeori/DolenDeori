@@ -14,13 +14,12 @@ Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer*
 
 ### • Machine Learning
 * Python
-* Pandas
-* Matplotlib
-* Sk-learn
-* Numpy
+
 ### • Extra Language
 * C++
 * Kotlin
+
+![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=radical)
 
 
 ![Profile views](https://gpvc.arturio.dev/DolenDeori)  
