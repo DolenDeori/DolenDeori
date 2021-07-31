@@ -4,12 +4,9 @@
 
 Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer** from India, Assam having 4 years of experience in web development and python programming. Currently learning Machine Learning. I also love to design logos and websites. 😊
 
-### Skills and Experience
-
-* 🐍 Python
-* 💻 Javascript , HTML , CSS , SCSS
-* ➕ C++ 
-* 📱 Kotlin
+# Skills and Experience
+### Web Development
+![Html](https://github.com/DolenDeori/DolenDeori/blob/main/Html.jpg)
 
 
 ![Profile views](https://gpvc.arturio.dev/DolenDeori)  
