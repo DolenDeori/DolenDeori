@@ -6,7 +6,7 @@ Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer*
 
 # Skills and Experience
 ### Web Development
-![Html](https://github.com/DolenDeori/DolenDeori/blob/main/html_2.png)
+![Html](https://github.com/DolenDeori/DolenDeori/blob/main/html_2.png)  ![js](https://github.com/DolenDeori/DolenDeori/blob/main/js.png)
 
 
 ![Profile views](https://gpvc.arturio.dev/DolenDeori)  
