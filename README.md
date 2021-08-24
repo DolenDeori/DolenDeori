@@ -1,5 +1,5 @@
 # Dolen Ch. Deori
-### Developer and a Designer
+### Software Developer
 
 Hey there! My name Is Dolen Ch. Deori , i am a software developer and really fecinated abot Machine Learning and Artificial Intelligence.
 I also love to develop websites.
