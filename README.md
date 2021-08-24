@@ -20,7 +20,7 @@ I also love to develop websites.
 * Kotlin
 
 ### My Work
-* ![Brillaint Academy](http://www.brilliantacademy.website/)
+* [Brillaint Academy](http://www.brilliantacademy.website/)
 
 ![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact)](https://github.com/DolenDeori/github-readme-stats)
