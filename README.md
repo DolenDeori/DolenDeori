@@ -1,4 +1,3 @@
-![Banner image](https://github.com/DolenDeori/DolenDeori/blob/main/banner.jpg)
 # Dolen Ch. Deori
 ### Developer and a Designer
 
