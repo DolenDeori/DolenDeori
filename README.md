@@ -1,7 +1,8 @@
 # Dolen Ch. Deori
 ### Developer and a Designer
 
-Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer** from India, Assam. I love machine learning , web development and designing. 😊
+Hey there! My name Is Dolen Ch. Deori , i am a software developer and really fecinated abot Machine Learning and Artificial Intelligence.
+I also love to develop websites.
 
 # Skills and Experience
 ### • Web Development
@@ -17,6 +18,9 @@ Hey there! my name is **Dolen Ch. Deori** I am a **Designer** and a **Developer*
 ### • Extra Language
 * C++
 * Kotlin
+
+### My Work
+* ![Brillaint Academy](http://www.brilliantacademy.website/)
 
 ![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact)](https://github.com/DolenDeori/github-readme-stats)
