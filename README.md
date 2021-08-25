@@ -2,7 +2,7 @@
 # Dolen Ch. Deori
 ### Software Developer
 
-Hey there! My name Is Dolen Ch. Deori , i am a software developer and really fecinated abot Machine Learning and Artificial Intelligence.
+Hey there! My name Is Dolen Ch. Deori , i am a software developer and really fascinated abot Machine Learning and Artificial Intelligence.
 I also love to develop websites.
 
 # Skills and Experience
