@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/DolenDeori/DolenDeori/blob/main/banner-final.jpg)
+![Banner Image](https://github.com/DolenDeori/DolenDeori/blob/main/banner-github.png)
 # Dolen Ch. Deori
 ### Software Developer
 
