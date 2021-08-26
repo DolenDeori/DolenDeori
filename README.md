@@ -23,7 +23,7 @@ I also love to develop websites.
 ### My Work
 * [Brillaint Academy](http://www.brilliantacademy.website/)
 
-![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=radical) <br>
+![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact)](https://github.com/DolenDeori/github-readme-stats)
 
 
