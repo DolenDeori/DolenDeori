@@ -20,8 +20,11 @@ I also love to develop websites.
 * C++
 * Kotlin
 
-### My Work
+### • My Work
 * [Brillaint Academy](http://www.brilliantacademy.website/)
+
+# Let's get in touch. 
+[Twitter](https://twitter.com/ChDulen) | [Facebook](https://www.facebook.com/dCoderBoy) | [Instagram](https://www.instagram.com/_d_deori_/) | [linkedin](https://www.linkedin.com/in/dolendeori/)
 
 ![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact)](https://github.com/DolenDeori/github-readme-stats)
