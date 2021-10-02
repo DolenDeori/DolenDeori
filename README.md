@@ -20,9 +20,6 @@ I also love to develop websites.
 * C++
 * Kotlin
 
-### • My Work
-* [Brillaint Academy](http://www.brilliantacademy.website/)
-
 # Let's get in touch. 
 [Twitter](https://twitter.com/ChDulen) | [Facebook](https://www.facebook.com/dCoderBoy) | [Instagram](https://www.instagram.com/_d_deori_/) | [linkedin](https://www.linkedin.com/in/dolendeori/)
 
