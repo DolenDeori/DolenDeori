@@ -23,9 +23,6 @@ I also love to develop websites.
 # LET'S GET IN TOUCH. 
 [Twitter](https://twitter.com/ChDulen) | [Facebook](https://www.facebook.com/dCoderBoy) | [Instagram](https://www.instagram.com/_d_deori_/) | [linkedin](https://www.linkedin.com/in/dolendeori/)
 
-## YOUR SUPPORT.
-<a href="https://www.buymeacoffee.com/dolendeori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## MY STATS.
 ![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true) <br>
 
