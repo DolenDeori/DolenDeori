@@ -5,7 +5,7 @@
 Hey there! My name Is Dolen, i am a software developer and really fascinated abot Machine Learning and Artificial Intelligence.
 I also love to develop websites.
 
-# SKILLS AND EXPERIENCE.
+## SKILLS AND EXPERIENCE.
 ### • Web Development
 * JavaScript 
 * Html
@@ -20,8 +20,11 @@ I also love to develop websites.
 * C++
 * Kotlin
 
-# LET'S GET IN TOUCH. 
+## LET'S GET IN TOUCH. 
 [Twitter](https://twitter.com/ChDulen) | [Facebook](https://www.facebook.com/dCoderBoy) | [Instagram](https://www.instagram.com/_d_deori_/) | [linkedin](https://www.linkedin.com/in/dolendeori/)
+
+## YOUR SUPPORT.
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dolendeori" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## MY STATS.
 ![Dolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true) <br>
