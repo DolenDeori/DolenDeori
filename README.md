@@ -7,11 +7,7 @@ I also love to develop websites.
 
 ## SKILLS AND EXPERIENCE.
 ### • Web Development
-* JavaScript 
-* Html
-* Css
-* Scss
-* Django
+* JavaScript | HTML | CSS | SCSS | Django
 
 ### • Machine Learning
 * Python
