@@ -10,11 +10,14 @@ I also love to develop websites.
 * JavaScript | HTML | CSS | SCSS | Django
 
 ### • Machine Learning
-* Python
+* Python | Sckit Learn | Pandas | Numpy | Matplotlib
 
-### • Extra Language
-* C++
-* Kotlin
+
+### • Languages
+* Python (Intermediate)
+* JavaScript (Intermediate)
+* C (Beginner)
+* C++ (Beginner)
 
 ## LET'S GET IN TOUCH. 
 [Twitter](https://twitter.com/ChDulen) | [Facebook](https://www.facebook.com/dCoderBoy) | [Instagram](https://www.instagram.com/_d_deori_/) | [linkedin](https://www.linkedin.com/in/dolendeori/)
