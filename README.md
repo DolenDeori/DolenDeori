@@ -3,7 +3,7 @@
 ### Software Developer
 
 Hey there! My name Is Dolen, i am a software developer and really fascinated abot Machine Learning and Artificial Intelligence.
-I also love to develop websites.
+I also have a hands on experience in web development.
 
 ## SKILLS AND EXPERIENCE.
 ### • Web Development
