@@ -21,7 +21,7 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
         srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?    username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?    username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
     </picture>
     &nbsp; &nbsp;
     <picture>
@@ -33,6 +33,6 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
     </picture>
 </div>
