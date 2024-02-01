@@ -5,34 +5,34 @@
 </picture>
 
 ### Hi there! 👋
-
 I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a passion for programming and design. I have a strong background in software development and a creative eye for graphics design.
-
+<br>
 <!-- RED : F44A4A -->
 <!-- YELLOW : F7E219 -->
 <!-- PURPLE : A83AEF -->
 ### My Github Stats 🚀
 <div>
     <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A" />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?    username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
     </picture>
+    &nbsp; &nbsp;
     <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=dark&hide_title=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF" />
+      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
     </picture>
 </div>
