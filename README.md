@@ -15,24 +15,24 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
 <div  style="display: flex; flex-direction: row; justify-content:space-between; width:100%;">
     <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=13&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
+            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=13&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
+            srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=13&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A" />
+          <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A" />
     </picture>
     <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=13&border_color=A83AEF&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=dark"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=13&border_color=A83AEF&theme=light"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img style="margin:40px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=13&border_color=A83AEF" />
+          <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF" />
     </picture>
 </div>
