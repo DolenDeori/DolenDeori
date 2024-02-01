@@ -4,7 +4,7 @@
     <img alt="Dynamic banner image" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-### Hi there! 👋
+### Hi there!👋 Welcome to my profile
 I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a passion for programming and design. I have a strong background in software development and a creative eye for graphics design.
 <br>
 <!-- RED : F44A4A -->
