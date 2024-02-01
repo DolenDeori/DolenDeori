@@ -12,7 +12,7 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
 <!-- YELLOW : F7E219 -->
 <!-- PURPLE : A83AEF -->
 ### My Github Stats 🚀
-<div  style="display: flex; flex-direction: row; justify-content:space-between; width:100%;">
+<div>
     <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A"
