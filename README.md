@@ -22,7 +22,7 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
         srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?    username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
     </picture>
     &nbsp; &nbsp;
     <picture>
@@ -37,6 +37,9 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
       <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
     </picture>
 </div>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DolenDeori&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 <br>
 
@@ -62,7 +65,7 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
 <br>
 <bt>
 
----
+##
 <p align="left">
     <a href="https://github.com/DolenDeori?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DolenDeori?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -71,4 +74,3 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DolenDeori?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
-
