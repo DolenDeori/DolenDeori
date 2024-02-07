@@ -15,32 +15,41 @@ I'm Dolen Ch. Deori, I am an undergraduate studying computer science with a pass
 <div>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&theme=dark&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=false"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=false"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DolenDeori&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=false" />
     </picture>
     &nbsp; &nbsp;
     <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=dark&hide_title=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=dark&hide_title=false"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light&hide_title=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&theme=light&hide_title=false"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolenDeori&layout=compact&border_radius=12&border_color=A83AEF&hide_title=false" />
     </picture>
 </div>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DolenDeori&theme=dark&border_radius=10)](https://git.io/streak-stats)
-
+<picture>
+      <source
+        srcset="https://streak-stats.demolab.com/?user=DolenDeori&theme=dark&border_radius=10"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com/?user=DolenDeori&theme=light&border_radius=10"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://streak-stats.demolab.com/?user=DolenDeori&theme=dark&border_radius=10" />
+</picture>
 <br>
 
 ## Languages and Tools
